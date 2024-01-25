@@ -1,3 +1,4 @@
 This is a sample file.
 I am able to write whatever I want to write.
 we can use insert command as well as the key "i".
+JAI HIND DOSTO!
