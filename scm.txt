@@ -1,3 +1,0 @@
-This is a sample file.
-This will show what all 
-I have learnt in SCM so far.
